@@ -1,0 +1,9 @@
+// Get Product Action
+export const GET_DATA_PROGRESS = "GET_DATA_PROGRESS";
+export const GET_DATA_SUCCESS = "GET_DATA_SUCCESS";
+export const GET_DATA_ERROR = "GET_DATA_ERROR";
+
+// Delete Product Action
+export const DELETE_DATA_PROGRESS = "DELETE_DATA_PROGRESS";
+export const DELETE_DATA_SUCCESS = "DELETE_DATA_SUCCESS";
+export const DELETE_DATA_ERROR = "DELETE_DATA_ERROR";
